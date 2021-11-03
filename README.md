@@ -1,23 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>
+    <head>
 
-<title>Libro de Recetas</title>
-<meta charset="utf-8">
-<style>
-body {background-color:grey}
-h1 {color: blue  }
-h2 {color: yellow } 
-h3 {color: orange }
-h4 {color: red }
-
-</style>
-</head>
-<body>
+        <title>Libro de Recetas</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
        
-<h1>Libro de Recetas de DonJavier</h1>
+        <h1>Libro de Recetas de DonJavier</h1>
         
-<h2>Contenidos</h2>
+        <h2>Contenidos</h2>
         
         <ol> 
 <li><a href="#arroz">Arroz con Pollo de DonJavier</a></li>
@@ -26,22 +20,22 @@ h4 {color: red }
 <li><a href=#halloween>Galletas de Halloween</a></li>
         </ol>
         
-<h2 id="arroz"><font size=5>Arroz con Pollo de DonJavier</font></h2>
+        <h2 id="arroz"><font size=5>Arroz con Pollo de DonJavier</font></h2>
         
-<ul>
-<li>Tiempo:25 minutos</li>
-<li>Personas: 4</li>
-</ul>
+        <ul>
+            <li>Tiempo:25 minutos</li>
+            <li>Personas: 4</li>
+        </ul>
         
-<table>
-<thead>
-<tr>
-<th>Ingredientes</th>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
 <th>Cantidad</th>
                   
-</tr>
-</thead>
-<tbody>
+                </tr>
+            </thead>
+            <tbody>
 <tr>
 <td>Pechuga de pollo
 <td>1 o 2 incluso
@@ -78,12 +72,12 @@ h4 {color: red }
 <td>Caldo de pollo
 <td>1,5 litros
 </tr>
-</tbody>
-</table>
+            </tbody>
+        </table>
 <h3><font size=5>Cómo Hacer Arroz con Pollo</font></h3>
 <h4><font size =4>Salteamos el pollo</font></h4>
         
-<p>●Ponemos un poco de aceite de oliva virgen extra en una paellera o en una sartén y salteamos el pollo troceado.<br><br>
+        <p>●Ponemos un poco de aceite de oliva virgen extra en una paellera o en una sartén y salteamos el pollo troceado.<br><br>
 
 ●Incorporamos un majado que hacemos en el mortero con los ajos, el perejil y la sal, y dejamos que se cocine un poco. Añadimos los tomates triturados.
 <h4><font size=4>Incorporamos el arroz</font></h4>
@@ -97,23 +91,23 @@ h4 {color: red }
 <img src=https://www.pequerecetas.com/wp-content/uploads/2012/06/Arroz-con-pollo.jpg>
 </center>
         
-<p><em>Fuente: <a href="https://www.pequerecetas.com/receta/arroz-con-pollo/">El mejor arroz de tu vida</a></em></p>
+    <p><em>Fuente: <a href="https://www.pequerecetas.com/receta/arroz-con-pollo/">El mejor arroz de tu vida</a></em></p>
 <h2 id="tortilla"><font size=5>Tortilla de Patatas de DonJavier</font></h2>
         
-<ul>
-<li>Tiempo:10 minutos</li>
-<li>Personas: 4</li>
-</ul>
+        <ul>
+            <li>Tiempo:10 minutos</li>
+            <li>Personas: 4</li>
+        </ul>
         
-<table>
-<thead>
-<tr>
-<th>Ingredientes</th>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
 <th>Cantidad</th>
                   
-</tr>
-</thead>
-<tbody>
+                </tr>
+            </thead>
+            <tbody>
 <tr>
 <td>Huevos
 <td>5
@@ -150,20 +144,20 @@ h4 {color: red }
 
 <h2 id="roldy"><font size=5>San Jacobos de Pollo de DonJavier</font></h2>
         
-<ul>
-<li>Tiempo:15 minutos</li>
-<li>Personas:4</li>
-</ul>
+        <ul>
+            <li>Tiempo:15 minutos</li>
+            <li>Personas:4</li>
+        </ul>
         
-<table>
-<thead>
-<tr>
-<th>Ingredientes</th>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
 <th>Cantidad</th>
                   
-</tr>
-</thead>
-<tbody>
+                </tr>
+            </thead>
+            <tbody>
 <tr>
 <td>Filetes de pechuga de pollo
 <td>8
@@ -202,19 +196,19 @@ h4 {color: red }
  <p><em>Fuente: <a href="https://www.pequerecetas.com/receta/sanjacobos-de-pollo/">El san jacobo más reluciente</a></em></p>
 <h2 id="halloween"><font size=5>Galletas de Halloween</font></h2>
 <ul>
-<li>Tiempo:10 minutos</li>
-<li>Personas:5</li>
-</ul>
+            <li>Tiempo:10 minutos</li>
+            <li>Personas:5</li>
+        </ul>
         
-<table>
-<thead>
-<tr>
-<th>Ingredientes</th>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
 <th>Cantidad</th>
                   
-</tr>
-</thead>
-<tbody>
+                </tr>
+            </thead>
+            <tbody>
 <tr>
 <td>Conos de helado
 <td>10
@@ -249,5 +243,10 @@ h4 {color: red }
 
  <p><em>Fuente: <a href="https://www.pequerecetas.com/receta/14-recetas-de-halloween/">La galleta más terrorífica</a></em></p>
 
-</body>
-</html>
+    </body>
+<style>
+body {background-color:grey}
+h1 {color: blue  }
+h2 {color: yellow } 
+h3 {color: orange }
+h4 {color: red }
